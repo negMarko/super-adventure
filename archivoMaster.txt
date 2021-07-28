@@ -1,1 +1,4 @@
 Esta es el archivo del master 
+
+
+Estoy agregando información desde el slave
